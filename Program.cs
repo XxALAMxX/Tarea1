@@ -9,7 +9,10 @@ namespace Suma
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Suma");
+            int a, b;
+            a = 5;
+            b = 10;
+            Console.WriteLine(a+b);
         }
     }
 }
