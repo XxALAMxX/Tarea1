@@ -13,6 +13,7 @@ namespace Suma
             a = 5;
             b = 10;
             Console.WriteLine(a+b);
+	    Console.WriteLIne("Fin");
         }
     }
 }
